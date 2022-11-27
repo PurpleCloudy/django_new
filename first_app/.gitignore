@@ -6,4 +6,4 @@ first_app/dev.py
 #Database
 *.sqlite3
 
-env
+../env
