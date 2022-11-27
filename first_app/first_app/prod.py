@@ -1,6 +1,6 @@
 DEBUG = True
 
-ALLOWED_HOSTS = ['calm-river-69032.herokuapp.com']
+ALLOWED_HOSTS = ['shielded-oasis-22533.herokuapp.com']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
